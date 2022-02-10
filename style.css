@@ -19,3 +19,7 @@ body {
     color:darkred;
     text-decoration:none;
 }
+
+.text a {
+    text-decoration:none;
+}
